@@ -28,6 +28,7 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise', '~> 3.3.0'
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'aws-sdk', '~>1.20.0'
 
 
 group :development, :test do
